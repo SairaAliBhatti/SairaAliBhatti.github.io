@@ -39,16 +39,12 @@ Designed a bilingual chatbot (English & Urdu) for Pakistan’s Polio Eradication
 #### Big Data Analytics Course (Projects)
 BCCP, Feature Engineering and Linear Regression, Lambda Filter. 
 
-### 🎯 Interests
-Global & Public Health Data
-
-Health Informatics
-
-AI and Machine Learning for Disease Prediction
-
-Epidemiological Data Visualization
-
-Evidence-Based Policy and Decision Support Systems
+### 🎯 Interests  
+- Global & Public Health Data  
+- Health Informatics  
+- AI & Machine Learning for Disease Prediction  
+- Epidemiological Data Visualization  
+- Evidence-Based Policy & Decision Support Systems
 
 ### Experience 
 meow meow 
