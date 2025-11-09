@@ -41,9 +41,13 @@ BCCP, Feature Engineering and Linear Regression, Lambda Filter.
 
 ### 🎯 Interests
 Global & Public Health Data
+
 Health Informatics
+
 AI and Machine Learning for Disease Prediction
+
 Epidemiological Data Visualization
+
 Evidence-Based Policy and Decision Support Systems
 
 ### Experience 
