@@ -1,7 +1,7 @@
-# Health Data Scientist 
+# Aspiring Health Data Scientist 
 
 ### About me
-Hi, I'm Saira, a passionate data scientist with hands-on experience in data analysis, machine learning, and deep learning. My academic and internship experiences have strengthened my analytical thinking, problem-solving skills, and technical expertise, utilizing tools such as Power BI, Python, Tableau, IBM SPSS, and Excel. I am driven by a strong interest in applying data-driven solutions to address real-world challenges in the health sector and create meaningful social impact.
+Hi, I'm Saira. I have done my Bachelor's of Science in Data Science. I have hands-on experience in data analysis, machine learning, and deep learning. My academic and internship experiences have strengthened my analytical thinking, problem-solving skills, and technical expertise, utilizing tools such as Power BI, Python, Tableau, IBM SPSS, and Excel. I am driven by a strong interest in applying data-driven solutions to address real-world challenges in the health sector and create meaningful social impact.
 
 ### Technical Skills 
 💻 Programming & Languages:
@@ -26,10 +26,25 @@ ArcGIS
 Git • GitHub • WordPress • Microsoft Office
 
 ### Projects
-Covid project 
+## 🩺 Explainable AI-Driven Chronic Kidney Disease Prediction System
+Developed a transparent deep-learning model to predict CKD risk, improving interpretability for healthcare professionals.  
+*Accepted for presentation at Conference ETECOM 2025.*
 
-### Education 
-Bachelor's of Science in Data Science, Pak-Austria Fachhochschule Institute of Applied Sciences and Technology
+## 🤖 NEOC Polio Eradication Chatbot (RAG)
+Designed a bilingual chatbot (English & Urdu) for Pakistan’s Polio Eradication Program to assist in communication and data retrieval. 
+*Tools used: Python, Flask (Backend), React and Tailwind CSS (Frontend), Pinecone, HuggingFace (all-MiniLM-L6-v2 embeddings), Groq, Whisper*
+
+## Social Network Analysis
+
+## Big Data Analytics Course (Projects)
+BCCP, Feature Engineering and Linear Regression, Lambda Filter. 
+
+### 🎯 Interests
+Global & Public Health Data
+Health Informatics
+AI and Machine Learning for Disease Prediction
+Epidemiological Data Visualization
+Evidence-Based Policy and Decision Support Systems
 
 ### Experience 
 meow meow 
