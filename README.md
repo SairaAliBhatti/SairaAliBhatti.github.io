@@ -26,17 +26,17 @@ ArcGIS
 Git • GitHub • WordPress • Microsoft Office
 
 ### Projects
-## 🩺 Explainable AI-Driven Chronic Kidney Disease Prediction System
+#### 🩺 Explainable AI-Driven Chronic Kidney Disease Prediction System
 Developed a transparent deep-learning model to predict CKD risk, improving interpretability for healthcare professionals.  
 *Accepted for presentation at Conference ETECOM 2025.*
 
-## 🤖 NEOC Polio Eradication Chatbot (RAG)
+#### 🤖 NEOC Polio Eradication Chatbot (RAG)
 Designed a bilingual chatbot (English & Urdu) for Pakistan’s Polio Eradication Program to assist in communication and data retrieval. 
 *Tools used: Python, Flask (Backend), React and Tailwind CSS (Frontend), Pinecone, HuggingFace (all-MiniLM-L6-v2 embeddings), Groq, Whisper*
 
-## Social Network Analysis
+#### Social Network Analysis
 
-## Big Data Analytics Course (Projects)
+#### Big Data Analytics Course (Projects)
 BCCP, Feature Engineering and Linear Regression, Lambda Filter. 
 
 ### 🎯 Interests
