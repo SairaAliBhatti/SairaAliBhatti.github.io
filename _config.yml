@@ -1,2 +1,17 @@
 title: Saira Ali Bhatti
+description: "Aspiring Health Data Scientist | Passionate about Healthcare Analytics & AI"
+show_downloads: false
 theme: jekyll-theme-minimal
+
+# Social links (optional)
+github:
+  is_project_page: false
+
+include: ['assets']
+
+# Add your social media or contact info
+social_links:
+  LinkedIn: https://www.linkedin.com/in/saira-ali-bhatti-041573242/
+  github: https://github.com/SairaAliBhatti
+  email: mailto:sairalibhatti98@gmail.com
+
